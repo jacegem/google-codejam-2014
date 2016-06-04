@@ -1,0 +1,3 @@
+C:\D2R\Dev\C#\GoogleCodeJam\GoogleCodeJam\bin\Debug\GoogleCodeJam.exe.config
+C:\D2R\Dev\C#\GoogleCodeJam\GoogleCodeJam\obj\Debug\GoogleCodeJam.exe
+C:\D2R\Dev\C#\GoogleCodeJam\GoogleCodeJam\obj\Debug\GoogleCodeJam.pdb
